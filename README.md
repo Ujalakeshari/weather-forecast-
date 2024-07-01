@@ -52,16 +52,6 @@ This enhanced weather application provides current weather conditions and a 5-da
 - **Switch Units**: Choose between Celsius and Fahrenheit.
 - **View Forecast**: See the 5-day weather forecast with daily details.
 
-## Example Screenshots
-
-### Main Screen
-![Main Screen](screenshots/main-screen.png)
-
-### Weather Details
-![Weather Details](screenshots/weather-details.png)
-
-### 5-Day Forecast
-![5-Day Forecast](screenshots/forecast.png)
 
 ## Error Handling
 
