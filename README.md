@@ -1,4 +1,4 @@
-# weather-forecast-
+# weather-forecast-website 
 # Weather App
 
 This enhanced weather application provides current weather conditions and a 5-day forecast, automatically detecting the user’s location with geolocation. The background changes dynamically based on the weather.
